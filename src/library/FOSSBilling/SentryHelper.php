@@ -92,6 +92,7 @@ class SentryHelper
     private const array ALLOWED_REGISTRAR_ADAPTERS = [
         'Custom',
         'Email',
+        'Enom',
         'Internetbs',
         'Namecheap',
         'Netearthone',

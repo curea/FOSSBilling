@@ -1,0 +1,10 @@
+{
+  "id": "clientguard",
+  "type": "mod",
+  "name": "Client Guard",
+  "description": "Prevents deleting a client who still has orders that are not canceled, so their hosting accounts and domains are never orphaned.",
+  "icon_url": "icon.svg",
+  "author": "Tortoise Tech",
+  "author_url": "https://tortoisetech.com",
+  "version": "1.0.0"
+}
